@@ -109,7 +109,7 @@ type %userprofile%\.ssh\id_ed25519.pub
 В поле "Title" напишите любое имя (например, My Windows PC).  
 Нажмите Add SSH key.
 
-### 06. Проверка подключения
+### 07. Проверка подключения
 
 ```
 ssh -T git@github.com  
